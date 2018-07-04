@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bigdata.hadoop.mr.iml" filepath="$PROJECT_DIR$/bigdata.hadoop.mr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scu.pxbd.zx/scu.pxbd.zx.iml" filepath="$PROJECT_DIR$/scu.pxbd.zx/scu.pxbd.zx.iml" />
+    </modules>
+  </component>
+</project>
