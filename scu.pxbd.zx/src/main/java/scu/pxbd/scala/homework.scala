@@ -1,6 +1,5 @@
 package scu.pxbd.scala
 
-
 object homework {
   def main(args: Array[String]): Unit = {
     val list0 = List(1,7,9,8,0,3,5,4,6,2)

@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/bigdata.hadoop.mr.iml" filepath="$PROJECT_DIR$/bigdata.hadoop.mr.iml" />
       <module fileurl="file://$PROJECT_DIR$/scu.pxbd.zx/scu.pxbd.zx.iml" filepath="$PROJECT_DIR$/scu.pxbd.zx/scu.pxbd.zx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scu.pxbd.rdd/scupxbdrdd.iml" filepath="$PROJECT_DIR$/scu.pxbd.rdd/scupxbdrdd.iml" />
     </modules>
   </component>
 </project>
